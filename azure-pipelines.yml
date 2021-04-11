@@ -9,7 +9,7 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'ASP-aguslearns-8c25 (B1: 1)'
+  azureSubscription: 'ASP-aguslearns-8c25'
   
   # Web app name
   webAppName: 'agus-app'
